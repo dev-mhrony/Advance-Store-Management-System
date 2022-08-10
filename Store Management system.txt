@@ -1,0 +1,174 @@
+Admin Menu List
+=================
+1. Deshbord
+2. Sale
+	>> New Sale
+	>> Manage Sale
+	>> POS Sale
+	>> Sales Terms List
+	>> Add Sales Terms
+4. Customer
+	>> Add Customer
+	>> Customer List
+	>> Cradit Customer
+	>> Paid Customer
+	>> Customer Ledger
+	>> Customer Advance
+5. Supplier
+	>> Add Supplier
+	>> Supplier List
+	>> Supplier Ledger
+	>> Supplier Advance
+6. Product
+	>> Add Category
+	>> Category List
+	>> Add Unit
+	>> Unit List
+	>> Add Product 
+	>> Add Product (CSV)
+	>> Manage Product
+7. Purchase
+	>> Add Purchase
+	>> Manage Purchase
+8. Stock
+	>> Stock Report
+8. Accounts
+	>> Chart of Account
+	>> Opening Balance
+	>> Add Payment Method
+	>> Supplier Payment
+	>> Customer Recive
+	>> Service Payment
+	>> Cash Adjustment
+	>> Dedit Voucher
+	>> Credit Voucher
+	>> Contra Voucher
+	>> Journal Voucher
+	>> Vouchar Approval
+9. 	>> Report
+		>> Cash Book
+		>> Inventory Ledger
+		>> Bank Book
+		>> General Ledger
+		>> Trial Balance
+		>> Profit Balance
+		>> Profit Loss
+		>> Cash Flow 
+		>> Coa Print
+		>> Balance Sheet
+9. Report
+	>> Closing
+	>> Closing Report
+	>> Todays Report
+	>> Todays Customer Receipt
+	>> Sales Report
+	>> User Wise Sales Report
+	>> Due Report
+	>> Shipping Cost Report
+	>> Purchase Report
+	>> Purchase Report (Category wise)
+	>> Sales Report (Product Wise)
+	>> Sales Report (Category wise)
+	>> Sales Return
+	>> Supplier Return
+	>> Tax Report
+	>> Profit Report (Sale Wise)
+10. Human Resource
+	>> HRM
+		>> Add Designtion
+		>> Manage Designation
+		>> Add Exployee
+		>> Manage Employee
+	>> Attendance
+		>> Attendance
+		>> Manage Attendance
+		>> Attendance Report
+	>> Payroll
+		>> Add Benefits
+		>> Manage Benefits
+		>> Add Salary Setup
+		>> Salary Generate
+		>> Manage Salary Generate
+		>> Salary Payment
+	>> Expense
+		>> Add Expense Item
+		>> Manage Expense Item
+		>> Manage Expense
+		>> Expense Statement
+	>> Office Loan
+		>> Add Person
+		>> Add Loan
+		>> Add Payment
+		>> Manage Person
+	>> Personal Loan
+		>> Add Person
+		>> Add Loan
+		>> Add Payment
+		>> Manage Person
+11. Bank
+	>> Add New Bank
+	>> Manage Bank
+	>> Bank Transaction
+	>> Bank Ledger
+12. Service
+	>> Add Service
+	>> Manage Service
+	>> Service Invoice
+	>> Manage Srvice Invoice
+13. Quatation
+	>> Add Quatation
+	>> Manage Quotation
+14. TAX
+	>> VAT & TAX Setting
+	>> Tax Settings
+	>> Add Income Tax
+	>> Manage Income Tax
+	>> Tax Report
+	>> Invoice Wise Taz Report
+15. Return	
+	>> Return
+	>> Stock Return List
+	>> Supplier Return List
+	>> Wastage Return List
+16. Settings
+	>> Software Settings
+		>> Manage Company
+		>> Add User
+		>> Manage Users
+		>> Language
+		>> Currency
+		>> Setting
+		>> print Setting
+		>> Mail Setting
+		>> Mail Setting
+		>> App Settings
+	>> Role Permission
+		>> Add Role
+		>> Role List
+		>> User Assign Role
+		>> User Assign Role
+	>> SMS
+		>>SMS Configure
+
+	>> Data Synchronizer
+		>> Restore
+		>> Inpute
+		>> BackUp
+	>> Update System
+17. Add Ons
+
+
+
+Maneger Menu List
+=================
+1. Deshbord
+2. All Product
+	>> Product Add
+	>> Product Details
+3. Permanent Clint
+	>> Add Clint
+	>> Clint Details
+4. 
+5. 
+
+
